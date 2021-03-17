@@ -102,6 +102,7 @@
         * [Add cart discounts](guides/plugins/plugins/checkout/cart/add-cart-discounts.md)
         * [Add cart validator](guides/plugins/plugins/checkout/cart/add-cart-validator.md)
         * [Change price of items in cart](guides/plugins/plugins/checkout/cart/change-price-of-item.md)
+        * [Customize price calculation](guides/plugins/plugins/checkout/cart/customize-price-calculation.md)
       * [Document](guides/plugins/plugins/checkout/document.md)
       * [Order](guides/plugins/plugins/checkout/order/README.md)
         * [Using the state machine](guides/plugins/plugins/checkout/order/using-the-state-machine.md)
