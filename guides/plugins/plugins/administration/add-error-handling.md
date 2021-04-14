@@ -96,7 +96,7 @@ Component.register('sw-product-basic-form', {
 Which then are bound to the inputs like this:
 
 ```html
-<sw-field type="text" v-model="product.name" :error="productNameError"
+<sw-field type="text" v-model="product.name" :error="productNameError">
 ``` 
 ​
 ### Error configuration for pages
