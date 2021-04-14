@@ -30,7 +30,7 @@ This grant is only available, when a preceding authentication with the resource 
 {% endtab %}
 {% endtabs %}
 
-In order to obtain an access token, perform one of the following requests
+In order to obtain an access token, perform one of the following requests. [WIP]You can find your shopware stores client-id here or here or here. (PLese clarify) You can find your client secret here or here or here. (for example in your .env file)[/WIP]
 
 {% tabs %}
 {% tab title="Integration" %}
@@ -44,7 +44,8 @@ In order to obtain an access token, perform one of the following requests
 }
 ```
 
-which will return
+which should return. [WIP]It's essential this works, otherwise you wont be able to login. So how does one tackle problems like Statuses 400, 401 etc.?
+Put some examples using PHP or cURL etc.[/WIP]
 
 ```javascript
 {
