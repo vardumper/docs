@@ -3,7 +3,7 @@
 ## Overview
 
 The Shopware 6 Administration stores API errors in the [Vuex store](https://vuex.vuejs.org/).
-Where they are centrally accessible to your components, with a flat data structure wich looks like this:
+There they are centrally accessible to your components, with a flat data structure looking like this:
 
 ```
 (state)
